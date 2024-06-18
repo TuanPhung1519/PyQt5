@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="plab">
+    <file>plab.png</file>
+  </qresource>
+</RCC>
